@@ -1,1 +1,1 @@
-# QWidget.QMainWindow
+# QtWidget.QMainWindow
